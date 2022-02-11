@@ -1,0 +1,13 @@
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Periodi.resources
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PoArheologu.resources
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PoTA.resources
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TipAntikviteta.resources
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Nikola\Desktop\mili c#\CS-Antikviteti-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
